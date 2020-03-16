@@ -49,5 +49,4 @@ It further allows leveraging the java editor code completion to access the list 
 == How to access?
 
 The DSL can be accessed in several ways, but the main one is to switch to using an EndpointRouteBuilder instead of the usual 
-
 RouteBuilder.  It provides access to all endpoint builders which are defined through inheritance on the EndpointRouteBuilder.
