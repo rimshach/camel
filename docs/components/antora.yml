@@ -16,7 +16,7 @@
 #
 
 name: components
-title: Component reference
+title: Apcache Component 
 version: latest
 nav:
 - modules/ROOT/nav.adoc
